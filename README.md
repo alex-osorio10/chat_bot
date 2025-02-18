@@ -11,4 +11,4 @@
 
 # 4:50 while still in the backend directory, type this into the terminal: 'npm i nodemon -D'
 
-# Alex Stopped progress at 18:01
+# Alex Stopped progress at 47:38, right before the timestamp for 'login & logout & update profile'
